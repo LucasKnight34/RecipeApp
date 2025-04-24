@@ -2,7 +2,7 @@
 //  FetchRecipeApp.swift
 //  FetchRecipe
 //
-//  Created by Lucas Knight on 4/24/25.
+//  Created by Lucas Knight on 4/22/25.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct FetchRecipeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecipeListView(viewModel: RecipeListViewModel())
         }
     }
 }
