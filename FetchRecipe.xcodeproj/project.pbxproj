@@ -50,7 +50,6 @@
 		A0635A7F2DBAD8F70034EC93 /* RecipeServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeServiceTests.swift; sourceTree = "<group>"; };
 		A0635A812DBADA420034EC93 /* RecipeListViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListViewModelTests.swift; sourceTree = "<group>"; };
 		A0635A832DBADC3F0034EC93 /* ImageCacheTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCacheTests.swift; sourceTree = "<group>"; };
-		A0635A852DBAF1550034EC93 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +73,6 @@
 		A0635A422DBA8DD00034EC93 = {
 			isa = PBXGroup;
 			children = (
-				A0635A852DBAF1550034EC93 /* Readme.md */,
 				A0635A4D2DBA8DD00034EC93 /* FetchRecipe */,
 				A0635A772DBAD8D20034EC93 /* FetchRecipeTests */,
 				A0635A4C2DBA8DD00034EC93 /* Products */,
