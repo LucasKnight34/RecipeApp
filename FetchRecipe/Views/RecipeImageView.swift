@@ -51,7 +51,6 @@ struct RecipeImageView: View {
             } else {
                 Group {
                     if loadLargeImage {
-                        Image(uiImage: UIImage(imageLiteralResourceName: "SmallBananaImage"))
                         Image(systemName: "photo")
                             .imageLargeModifier()
                     } else {
